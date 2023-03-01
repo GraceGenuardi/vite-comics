@@ -133,6 +133,22 @@ h3{
   color: white;
 }
 
+/**FOOTER RULES**/
+.container-footer{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-left: 60px;
+  background-color:#303030 ;
+}
+.col-footer{
+  display: flex;
+  gap: 20px;
+  color: white;
+  padding-right: 50px;
+}
+
+
 
 @media (prefers-color-scheme: light) {
   :root {

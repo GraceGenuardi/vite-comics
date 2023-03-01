@@ -1,12 +1,13 @@
 <template>
     <footer>
-      <div class="container">
+      <div class="container-footer">
   
         <div class="col">
-          <img src="/images/la-molisana-logo.png" alt="">
+          <button>Sign-up now!</button>
         </div>
-        <div class="col">
-          <h3>footer</h3>
+        <div class="col-footer">
+          <h4>follow us</h4>
+          <p>lista social</p>
          
         </div>
       </div>
