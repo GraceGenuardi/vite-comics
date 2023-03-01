@@ -4,12 +4,25 @@
         <img src="/images/la-molisana-logo.png" alt="">
   
         <nav class="main-menu">
-          <ul>
-            <li class="menu-item">Home</li>
-            <li class="menu-item active">Prodotti</li>
-            <li class="menu-item">Chi Siamo</li>
-            <li class="menu-item">Contatti</li>
+          <p>Logo</p>
+          
+          <ul class="menu-list">
+
+
+            <li class="menu-item">Characters</li>
+            <li class="menu-item active">Comics</li>
+            <li class="menu-item">Movies</li>
+            <li class="menu-item">TV</li>
+            <li class="menu-item">Games</li>
+            <li class="menu-item">Collectibles</li>
+            <li class="menu-item">Videos</li>
+            <li class="menu-item">Fans</li>
+            <li class="menu-item">News</li>
+            <li class="menu-item">Shop</li>
+
           </ul>
+
+
         </nav>
       </div>
     </header>
