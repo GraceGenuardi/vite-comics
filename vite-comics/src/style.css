@@ -93,6 +93,46 @@ button:focus-visible {
   gap: 15px;
 }
 
+/**MAIN RULES**/
+
+h3{
+  color: white;
+}
+/**ROWS RULES**/
+
+.row-content{
+  padding: 30px;
+  border: 2px dashed red;
+  text-align: left;
+}
+
+/******/
+.row-brands{
+  color: white;
+  background-color:#0282F9 ;
+  padding: 50px;
+
+}
+.list-brand{
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  justify-content: center;
+}
+
+/****/
+.row-hero{
+  background-color: #9b9ba96b;
+  border: 2px dashed greenyellow;
+  display: flex;
+  
+}
+.list-hero{
+  list-style: none;
+  margin-left: 30px;
+  color: white;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
