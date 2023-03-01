@@ -38,6 +38,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  
 }
 
 h1 {
@@ -73,7 +74,12 @@ button:focus-visible {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  
 }
+
+/**STILE BLOCCHI**/
+
+
 
 @media (prefers-color-scheme: light) {
   :root {
