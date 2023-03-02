@@ -4,21 +4,22 @@
         
   
         <nav class="main-menu">
-          <p>Logo</p>
+         <div class="logo"> <img src="../assets/img/dc-logo.png" alt="Logo"></div>
           
           <ul class="menu-list">
 
 
-            <li class="menu-item">Characters</li>
-            <li class="menu-item active">Comics</li>
-            <li class="menu-item">Movies</li>
-            <li class="menu-item">TV</li>
-            <li class="menu-item">Games</li>
-            <li class="menu-item">Collectibles</li>
-            <li class="menu-item">Videos</li>
-            <li class="menu-item">Fans</li>
-            <li class="menu-item">News</li>
-            <li class="menu-item">Shop</li>
+            <li class="menu-item"> <h4>Characters</h4></li>
+            <li class="menu-item"> <h4 class="active">Comics</h4> </li>
+            <div class="underline"></div>
+            <li class="menu-item"> <h4>Movies</h4></li>
+            <li class="menu-item"> <h4>TV</h4></li>
+            <li class="menu-item"><h4>Games</h4></li>
+            <li class="menu-item"><h4>Collectibles</h4></li>
+            <li class="menu-item"><h4>Videos</h4></li>
+            <li class="menu-item"><h4>Fans</h4></li>
+            <li class="menu-item"><h4>News</h4></li>
+            <li class="menu-item"><h4>Shop</h4></li>
 
           </ul>
 
