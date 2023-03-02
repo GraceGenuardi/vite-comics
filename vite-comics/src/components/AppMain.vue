@@ -4,17 +4,17 @@
         <!-- Diviosione in 4 righe -->
 
         <div class="row-content">
-          <h3>Content goes here</h3>
+          <h3> Content goes here </h3>
         </div>
 
         <div class="row-brands">
 
           <ul class="list-brand">
-            <li>Brand+icona</li>
-            <li>Brand+icona</li>
-            <li>Brand+icona</li>
-            <li>Brand+icona</li>
-            <li>Brand+icona</li>
+            <li class="item-brand"><img src="../assets/img/buy-comics-digital-comics.png" alt="Digital comics"> <p>Digital comics</p></li>
+            <li class="item-brand"><img src="../assets/img/buy-comics-merchandise.png" alt="merchandise"> <p>Dc merchandise</p></li>
+            <li class="item-brand"><img src="../assets/img/buy-comics-subscriptions.png" alt="sub"> <p>subscription</p></li>
+            <li class="item-brand comics" ><img src="../assets/img/buy-comics-shop-locator.png" alt=""> <p>comics shop locator</p></li>
+            <li class="item-brand"><img src="../assets/img/buy-dc-power-visa.svg" alt=""> <p>Dc power visa</p></li>
           </ul>
 
 

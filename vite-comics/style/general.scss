@@ -98,9 +98,12 @@ body {
   /**ROWS RULES**/
   
   .row-content{
-    padding: 30px;
+    padding-left: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     text-align: left;
   }
+  
   
   /******/
   .row-brands{
@@ -114,6 +117,26 @@ body {
     list-style: none;
     gap: 10px;
     justify-content: center;
+    gap: 20px;
+  }
+
+  .item-brand{
+    display: flex;
+    width: 200px;
+  }
+
+  .item-brand img {
+    width: 40px;
+    height: 50px;
+  }
+
+  .item-brand p {
+    text-transform: uppercase;
+    padding-left: 10px;
+  }
+
+  .comics {
+    width: 250px;
   }
   
   /****/
