@@ -1,7 +1,7 @@
 <template>
     <header class="main-header">
       <div class="container">
-        <img src="/images/la-molisana-logo.png" alt="">
+        
   
         <nav class="main-menu">
           <p>Logo</p>
