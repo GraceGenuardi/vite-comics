@@ -24,35 +24,39 @@
         <div class="row-hero"> 
 
           <ul class="list-hero">
-            <li class="list-title"> <h4>TV</h4></li>
-            <li>tv</li>
-            <li>tv</li>
-            <li>tv</li>
-            <li>tv</li>
-            <li>tv</li>
-            <li>tv</li>
-            <li><h4>Marvel</h4></li>
-            <li>tv</li>
-            <li>tv</li>
+            <li class="list-title"> <h4>dc comics</h4></li>
+            <li> <p>Characters</p></li>
+            <li><p>Comics</p></li>
+            <li><p>Films</p></li>
+            <li><p>Video</p></li>
+            <li><p>Characters</p></li>
+            <li><p>Characters</p></li>
+            <li><h4>shop</h4></li>
+            <li><p>Shop DC</p></li>
+            <li><p>Shop DC e-commerce</p></li>
           </ul>
 
           <ul class="list-hero">
-            <li class="list-title"><h4>Games</h4></li>
-            <li>DC</li>
-            <li>DC</li>
-            <li>DC</li>
-            <li>DC</li>
-            <li>DC</li>
-            <li>DC</li>
+            <li class="list-title"><h4>DC</h4></li>
+            <li><p>Terms of use</p></li>
+            <li><p>privacy policy</p></li>
+            <li><p>Ad choice</p></li>
+            <li><p>Advertising</p></li>
+            <li><p>Jobs</p></li>
+            <li><p>Characters</p></li>
+            <li><p>Characters</p></li>
           </ul>
 
           <ul class="list-hero">
-            <li class="list-title"> <h4>Video</h4></li>
-            <li>VIDEO</li>
-            <li>GAMES</li>
-            <li>GAMES</li>
-            <li>GAMES</li>
+            <li class="list-title"> <h4>sites</h4></li>
+            <li><p>DC</p></li>
+            <li><p>MAD Magazine</p></li>
+            <li><p>DC Kids</p></li>
+            <li><p>DC Universe</p></li>
+            <li><p>DC Power Visa</p></li>
           </ul>
+
+          <img src="../assets/img/dc-logo-bg.png" alt="Logo big">
 
         </div>
         
